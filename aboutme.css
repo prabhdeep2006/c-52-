@@ -1,0 +1,9 @@
+
+
+body{background:"BG2.jpg";
+    transition-duration: .3s;
+    transition-delay:1s ;}
+body:hover{
+    background: "Bg3.jpeg";  
+}
+
